@@ -1,4 +1,41 @@
 ﻿<Properties StartupConfiguration="{904AAB70-19F9-494C-8FB8-67DBDD415D57}|Default">
-  <MonoDevelop.Ide.ItemProperties.learnReactASP FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="learnReactASP/Controllers/ItemController.cs">
+    <Files>
+      <File FileName="learnReactASP/ClientApp/src/AppRoutes.js" Line="8" Column="22" />
+      <File FileName="learnReactASP/ClientApp/src/setupProxy.js" Line="9" Column="13" />
+      <File FileName="learnReactASP/ClientApp/src/components/RankItems.js" Line="1" Column="1" />
+      <File FileName="learnReactASP/Controllers/ItemController.cs" Line="37" Column="10" />
+      <File FileName="learnReactASP/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="learnReactASP" expanded="True">
+            <Node name="learnReactASP">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="components" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="ItemController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.learnReactASP PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sebastianenciso/Projects/learnReactASP/learnReactASP/Controllers/ItemController.cs" relfile="learnReactASP/Controllers/ItemController.cs" line="38" column="1" />
+      <Breakpoint file="/Users/sebastianenciso/Projects/learnReactASP/learnReactASP/Controllers/ItemController.cs" relfile="learnReactASP/Controllers/ItemController.cs" line="36" column="1" />
+      <Breakpoint file="/Users/sebastianenciso/Projects/learnReactASP/learnReactASP/Controllers/ItemController.cs" relfile="learnReactASP/Controllers/ItemController.cs" line="9" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
